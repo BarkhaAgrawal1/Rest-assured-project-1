@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/deepa/Documents/Barkha new intellij/RestAssuredproject1">
+        <classes>
+
+
+
+            <class name="Methods.Datadriven_postpractice"> </class>
+                <class name="Methods.Post_datadriven"></class>
+
+            <class name="Methods.Test_Delete01"></class>
+            <class name="Methods.Test_get01"></class>
+            <class name="Methods.Test_get03"></class>
+            <class name="Methods.Test_post1"></class>
+            <class name="Methods.Test_post1"></class>
+            <class name="Methods.Test_put01"></class>
+            <class name="Methods.Test_patch01"></class>
+            <class name ="Methods.Datadriven_postpractice"></class>
+
+        </classes>
+    </test>
+</suite>

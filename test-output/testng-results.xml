@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-24T14:27:32 PST" name="All Test Suite" finished-at="2023-01-24T14:27:44 PST" duration-ms="12071">
+    <groups>
+    </groups>
+    <test started-at="2023-01-24T14:27:32 PST" name="C:/Users/deepa/Documents/Barkha new intellij/RestAssuredproject1" finished-at="2023-01-24T14:27:44 PST" duration-ms="12071">
+      <class name="Methods.Post_datadriven">
+        <test-method signature="Post(java.lang.String, java.lang.String)[pri:0, instance:Methods.Post_datadriven@6166e06f]" started-at="2023-01-24T14:27:40 PST" name="Post" data-provider="postddt" finished-at="2023-01-24T14:27:40 PST" duration-ms="413" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fka]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+        <test-method signature="Post(java.lang.String, java.lang.String)[pri:0, instance:Methods.Post_datadriven@6166e06f]" started-at="2023-01-24T14:27:40 PST" name="Post" data-provider="postddt" finished-at="2023-01-24T14:27:41 PST" duration-ms="411" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[asdd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[899]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+        <test-method signature="Post(java.lang.String, java.lang.String)[pri:0, instance:Methods.Post_datadriven@6166e06f]" started-at="2023-01-24T14:27:41 PST" name="Post" data-provider="postddt" finished-at="2023-01-24T14:27:41 PST" duration-ms="389" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sdf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[322]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+      </class> <!-- Methods.Post_datadriven -->
+      <class name="Methods.Test_patch01">
+        <test-method signature="test_patch()[pri:0, instance:Methods.Test_patch01@6e38921c]" started-at="2023-01-24T14:27:44 PST" name="test_patch" finished-at="2023-01-24T14:27:44 PST" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_patch -->
+      </class> <!-- Methods.Test_patch01 -->
+      <class name="Methods.Test_get03">
+        <test-method signature="get_03()[pri:0, instance:Methods.Test_get03@6b0c2d26]" started-at="2023-01-24T14:27:42 PST" name="get_03" finished-at="2023-01-24T14:27:43 PST" duration-ms="1285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_03 -->
+      </class> <!-- Methods.Test_get03 -->
+      <class name="Methods.Datadriven_postpractice">
+        <test-method signature="Post(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Methods.Datadriven_postpractice@442675e1]" started-at="2023-01-24T14:27:35 PST" name="Post" data-provider="postddt" finished-at="2023-01-24T14:27:39 PST" duration-ms="3939" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aditi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[55]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+        <test-method signature="Post(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Methods.Datadriven_postpractice@442675e1]" started-at="2023-01-24T14:27:39 PST" name="Post" data-provider="postddt" finished-at="2023-01-24T14:27:39 PST" duration-ms="443" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rupa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[34000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[55]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+        <test-method signature="Post(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Methods.Datadriven_postpractice@442675e1]" started-at="2023-01-24T14:27:39 PST" name="Post" data-provider="postddt" finished-at="2023-01-24T14:27:39 PST" duration-ms="407" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shalini]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[45000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[33]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+        <test-method signature="Post(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Methods.Datadriven_postpractice@442675e1]" started-at="2023-01-24T14:27:39 PST" name="Post" data-provider="postddt" finished-at="2023-01-24T14:27:40 PST" duration-ms="398" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kartik]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[46000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+      </class> <!-- Methods.Datadriven_postpractice -->
+      <class name="Methods.Test_get01">
+        <test-method signature="get_01()[pri:0, instance:Methods.Test_get01@1c72da34]" started-at="2023-01-24T14:27:42 PST" name="get_01" finished-at="2023-01-24T14:27:42 PST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_01 -->
+      </class> <!-- Methods.Test_get01 -->
+      <class name="Methods.Test_post1">
+        <test-method signature="Test_post()[pri:0, instance:Methods.Test_post1@3d3fcdb0]" started-at="2023-01-24T14:27:43 PST" name="Test_post" finished-at="2023-01-24T14:27:44 PST" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_post -->
+      </class> <!-- Methods.Test_post1 -->
+      <class name="Methods.Test_Delete01">
+        <test-method signature="test_delete()[pri:0, instance:Methods.Test_Delete01@49e202ad]" started-at="2023-01-24T14:27:41 PST" name="test_delete" finished-at="2023-01-24T14:27:42 PST" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_delete -->
+      </class> <!-- Methods.Test_Delete01 -->
+      <class name="Methods.Test_put01">
+        <test-method signature="test_put()[pri:0, instance:Methods.Test_put01@641147d0]" started-at="2023-01-24T14:27:44 PST" name="test_put" finished-at="2023-01-24T14:27:44 PST" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_put -->
+      </class> <!-- Methods.Test_put01 -->
+    </test> <!-- C:/Users/deepa/Documents/Barkha new intellij/RestAssuredproject1 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
